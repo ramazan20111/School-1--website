@@ -3,6 +3,12 @@ a{
     margin-right:15px;
     color:black;
     text-decorition:none;
-    font-size:18px;
+    font-size:15px;
     font-weight:500;
+}
+
+.logo{
+    font-size:18px;
+    fonk-weight:8000;
+    margin-right:50px;
 }
